@@ -1,10 +1,10 @@
 {
-  "name": "helioslauncher",
-  "version": "1.7.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
-  "license": "UNLICENSED",
+  "name": "unicornlauncher",
+  "version": "1.0.0",
+  "productName": "Unicorn Launcher",
+  "description": "Unicorn Minecraft Launcher",
+  "author": "ZimPo",
+  "license": "MIT",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
     "url": "https://github.com/dscalzi/HeliosLauncher/issues"
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/mic2999/UnicornLauncher.git"
   }
 }
